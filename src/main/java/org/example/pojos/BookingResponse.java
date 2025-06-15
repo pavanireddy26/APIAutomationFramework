@@ -1,9 +1,9 @@
 
-package org.example.ex_010_PayloadManagement.gson;
+package org.example.pojos;
 
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
-import org.example.ex_010_PayloadManagement.ai_03.Booking;
+//import org.example.ex_010_PayloadManagement.ai_03.Booking;
 
 public class BookingResponse {
 
